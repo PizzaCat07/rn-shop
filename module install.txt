@@ -1,0 +1,3 @@
+npm install --save --legacy-peer-deps install redux react-redux react-navigation react-navigation-header-buttons @react-navigation/stack
+
+expo install react-native-gesture-handler react-native-reanimated
